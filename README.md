@@ -76,13 +76,7 @@ Currently focused on **landing a strong placement** by building production-grade
 - Implemented receipt voucher mapping and workflow tracking features
 - Stack: PHP · MySQL · JavaScript · WAMP Server
 
----
 
-### 🎓 Nippon Toyota Internship *(Ongoing)*
-**Full Stack Web Development Intern**
-
-- Building an Employee Salary Slip Automation System as Task 1
-- Designed complete system architecture · REST API · PDF generation pipeline · email automation
 
 ---
 
