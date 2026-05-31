@@ -46,13 +46,15 @@ Currently focused on **landing a strong placement** by building production-grade
 
 ---
 
-### 🤖 AI-Powered Data Analyst SaaS
-> **FastAPI · PostgreSQL · Ollama · RAG · Vector Embeddings · Semantic Search**
+### 🤖 Askbase — Natural Language Analytics Engine
+> **FastAPI · PostgreSQL · Groq LLM · Google Gemini Embeddings · RAG · React**
 
-- **Challenge:** Non-technical users unable to query databases without SQL knowledge
-- **Solution:** Built a SaaS platform that converts natural language to SQL, executes queries on PostgreSQL, and uses vector memory for semantic search — with automatic SQL error correction
-- **Impact:** End-to-end NL→SQL pipeline · RAG-powered query memory · secure query validation and logging
+- **Challenge:** Non-technical users unable to query databases without SQL knowledge — a major barrier to data-driven decisions
+- **Solution:** Built a full-stack AI analytics engine that converts plain English to SQL using Groq's Llama 3.3 70B, with dynamic schema extraction, ER relationship inference, RAG vector memory (Google Gemini embeddings), and an automatic SQL repair loop that retries failed queries up to 2 times
+- **Impact:** Handles complex queries including JOINs, window functions, aggregations, and subqueries · memory gets smarter with every interaction · dangerous queries (DROP, DELETE, TRUNCATE) blocked before execution
 
+[![Live](https://img.shields.io/badge/Live-ask--base--five.vercel.app-4F46E5?style=flat-square&logo=vercel)](https://ask-base-five.vercel.app)
+[![Repo](https://img.shields.io/badge/GitHub-Ask--base-181717?style=flat-square&logo=github)](https://github.com/Sachin-haridas/Ask-base)
 ---
 
 ### 🏭 Reason Tracking & Billing Status System — Engine Factory Avadi
@@ -125,19 +127,7 @@ Currently focused on **landing a strong placement** by building production-grade
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-
-![Sachin's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sachin-haridas&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Sachin-haridas&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=Sachin-haridas&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 ## 🎓 Education
 
